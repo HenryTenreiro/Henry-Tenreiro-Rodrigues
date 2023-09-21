@@ -1,0 +1,18 @@
+.personal-data {
+    background-image: url('https://media.tenor.com/fTX6J76vHvAAAAAd/tahm-kench-league-of-legends.gif');
+   /*  background-size: contain ; */
+
+}
+
+
+
+
+
+.personal-data h1 {
+    font-size: 2rem; 
+    color: brown;
+    border-width: 10px;
+    border-style: groove;
+    border-color: gray;
+    background-color: indigo; 
+   }
